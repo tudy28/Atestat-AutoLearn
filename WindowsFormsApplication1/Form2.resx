@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="listBox1.Items" xml:space="preserve">
+    <value>1. acordare a prioritatii – obligatia oricarui participant la trafic de a nu-si continua deplasarea sau de a nu efectua orice alta manevra, daca prin acestea îi obliga pe ceilalti participanti la trafic care au prioritate de trecere sa-si modifice directia sau viteza de deplasare ori sa opreasca;</value>
+  </data>
+  <data name="listBox1.Items1" xml:space="preserve">
+    <value>3. amenajari rutiere – totalitatea constructiilor, dispozitivelor si oricaror mijloace tehnice, altele decât cele destinate semnalizarii, amplasate pe drumul public în scopul asigurarii securitatii rutiere;</value>
+  </data>
+  <data name="listBox1.Items2" xml:space="preserve">
+    <value>5. autostrada – drumul national de mare capacitate si viteza, semnalizat special, rezervat exclusiv circulatiei autovehiculelor, cu sau fara remorci, care nu serveste proprietatii riverane, prevazut cu doua cai unidirectionale, separate printr-o zona mediana sau, în mod exceptional, prin alte modalitati, cu exceptia unor locuri speciale sau cu caracter temporar, având cel putin doua benzi de circulatie pe sens si banda de urgenta, intersectii denivelate si accese limitate, intrarea si iesirea fiind permise numai prin locuri special amenajate;</value>
+  </data>
+  <data name="listBox1.Items3" xml:space="preserve">
+    <value>6. autovehicul - orice vehicul echipat, prin constructie, cu un motor cu propulsie, in scopul deplasarii pe drum. Mopedele, troleibuzele si tractoarele rutiere sunt considerate autovehicule. Vehiculele care se deplaseaza pe sine, denumite tramvaie, tractoarele folosite exclusiv in exploatarile agricole si forestiere, precum si vehiculele destinate pentru efectuarea de servicii sau lucrari, denumite masini autopropulsate, care se deplaseaza numai ocazional pe drumul public, nu sunt considerate autovehicule;</value>
+  </data>
+  <data name="listBox1.Items4" xml:space="preserve">
+    <value>7. banda de circulatie – subdiviziunea longitudinala a partii carosabile, materializata prin marcaje rutiere sau alte mijloace, daca are o latime corespunzatoare pentru circulatia într-un sens a unui sir de vehicule, altele decât vehiculele care se deplaseaza pe doua roti;</value>
+  </data>
+  <data name="listBox1.Items5" xml:space="preserve">
+    <value>8. banda de urgenta – subdiviziunea longitudinala suplimentara, situata la extremitatea din partea dreapta a autostrazii, în sensul de circulatie, destinata exclusiv stationarii autovehiculelor în cazuri justificate, precum si circulatiei autovehiculelor cu regim prioritar care se deplaseaza la interventii sau în misiuni cu caracter de urgenta;</value>
+  </data>
+  <data name="listBox1.Items6" xml:space="preserve">
+    <value>11. coloana oficiala – unul sau mai multe vehicule care circula pe drumul public si sunt însotite de unul sau mai multe autovehicule ale politiei rutiere, care au în functiune semnale speciale de avertizare sonore si luminoase de culoare rosie;</value>
+  </data>
+  <data name="listBox1.Items7" xml:space="preserve">
+    <value>13. conducator de autovehicul sau tramvai, atestat profesional – persoana fizica posesoare a unui permis de conducere si a unui certificat de atestare profesionala, care conduce un autovehicul de o anumita categorie, cu sau fara remorca, pentru transportul de marfuri, persoane sau alte servicii;</value>
+  </data>
+  <data name="listBox1.Items8" xml:space="preserve">
+    <value>13.1. constatare amiabila de accident – procedura prin care doi conducatori de vehicule încheie o întelegere în forma scrisa prin care convin cu privire la circumstantele producerii unui accident de circulatie în care acestia sunt implicati si din care au rezultat numai pagube materiale, ce se înregistreaza la societatea de asigurari care a emis polita de asigurare obligatorie de raspundere civila pentru prejudicii produse prin accidente de autovehicule, a carui titular este conducatorul de vehicul vinovat de producerea accidentului sau, dupa caz, proprietarul sau detinatorul acesteia;</value>
+  </data>
+  <data name="listBox1.Items9" xml:space="preserve">
+    <value>14. drum public – orice cale de comunicatie terestra, cu exceptia cailor ferate, special amenajata pentru traficul pietonal sau rutier, deschisa circulatiei publice; drumurile care sunt închise circulatiei publice sunt semnalizate la intrare cu inscriptii vizibile;</value>
+  </data>
+  <data name="listBox1.Items10" xml:space="preserve">
+    <value>15. unitati de asistenta medicala ambulatorie de specialitate autorizate în acest sens – unitatile sanitare cu personal calificat si dotare corespunzatoare pentru examinarea medicala ambulatorie a candidatilor la obtinerea permisului de conducere si a conducatorilor de autovehicule sau tramvai, autorizate de catre autoritatile de sanatate publica judetene sau a municipiului Bucuresti, dupa caz;</value>
+  </data>
+  <data name="listBox1.Items11" xml:space="preserve">
+    <value>20. mijloc tehnic omologat si verificat metrologic – dispozitivul care stabileste concentratia de alcool în aerul expirat ori destinat masurarii vitezei sau prin care se probeaza încalcari ale unor reguli de circulatie;</value>
+  </data>
+  <data name="listBox1.Items12" xml:space="preserve">
+    <value>21. moped - vehicul, cu doua sau trei roti, a carui viteza maxima prin constructie este mai mare de 25 km/h, dar nu depaseste 45 km/h si care este echipat cu un motor cu ardere interna, cu aprindere prin scanteie, cu o capacitate cilindrica ce nu depaseste 50 cm3 sau cu un alt motor cu ardere interna ori, dupa caz, electric, a carui putere nominala continua maxima nu depaseste 4 kW, iar masa proprie a vehiculului nu depaseste 350 kg, neincluzand masa bateriilor in cazul vehiculului electric. Este asimilat mopedului cvadriciclul usor, astfel cum este definit la pct. 6 partea A din anexa nr. 1 la sectiunea 4 din Reglementarile privind omologarea de tip si eliberarea cartii de identitate a vehiculelor rutiere, precum si omologarea de tip a produselor utilizate la acestea - RNTR 2, aprobate prin Ordinul ministrului lucrarilor publice, transporturilor si locuintei nr. 211/2003, cu modificarile si completarile ulterioare;</value>
+  </data>
+  <data name="listBox1.Items13" xml:space="preserve">
+    <value>22. motocicleta – autovehiculul cu doua roti, cu sau fara atas, echipat cu un motor care are o capacitate cilindrica mai mare de 50 cm3 si/sau a carui viteza maxima, prin constructie, depaseste 45 km/h;</value>
+  </data>
+  <data name="listBox1.Items14" xml:space="preserve">
+    <value>23. parte carosabila – portiunea din platforma drumului destinata circulatiei vehiculelor; un drum poate cuprinde mai multe parti carosabile complet separate una de cealalta printr-o zona despartitoare sau prin diferenta de nivel;</value>
+  </data>
+  <data name="listBox1.Items15" xml:space="preserve">
+    <value>25. pista pentru biciclete – subdiviziunea partii carosabile, a trotuarului ori a acostamentului sau pista separata de drum, special amenajata, semnalizata si marcata corespunzator, destinata numai circulatiei bicicletelor si mopedelor;</value>
+  </data>
+  <data name="listBox1.Items16" xml:space="preserve">
+    <value>26. prioritate de trecere – dreptul unui participant la trafic de a trece înaintea celorlalti participanti la trafic cu care se intersecteaza, în conformitate cu prevederile legale privind circulatia pe drumurile publice;</value>
+  </data>
+  <data name="listBox1.Items17" xml:space="preserve">
+    <value>30. tractor – vehiculul cu motor, pe roti sau pe senile, conceput special pentru a trage sau a împinge anumite utilaje sau remorci folosite în exploatarile agricole ori forestiere sau pentru alte lucrari, care se deplaseaza numai ocazional pe drumul public;</value>
+  </data>
+  <data name="listBox1.Items18" xml:space="preserve">
+    <value>31. tractor rutier – tractorul pe roti, cu cel putin doua axe, utilizat pentru executarea de lucrari, precum si pentru tractarea unor remorci folosite pentru transportul de persoane sau bunuri si care se deplaseaza, de regula, pe drumul public;</value>
+  </data>
+  <data name="listBox1.Items19" xml:space="preserve">
+    <value>32.1. triciclu cu motor – autovehicul cu trei roti dispuse simetric, a carui viteza maxima prin constructie depaseste 45km/h, care este echipat cu un motor avand o cilindree de peste 50 cm3, in cazul unui motor cu ardere interna, sau cu un motor electric cu putere nominala continua ce depaseste 4 kW;</value>
+  </data>
+  <data name="listBox1.Items20" xml:space="preserve">
+    <value>35. vehicul – sistemul mecanic care se deplaseaza pe drum, cu sau fara mijloace de autopropulsare, utilizat în mod curent pentru transportul de persoane si/sau bunuri ori pentru efectuarea de servicii sau lucrari;</value>
+  </data>
+  <data name="listBox1.Items21" xml:space="preserve">
+    <value>36. vehicul cu mase sau dimensiuni de gabarit depasite – vehiculul care, datorita dimensiunilor sale ori marfurilor transportate, depaseste masele totale maxime admise sau dimensiunile de gabarit admise, prevazute în reglementarile legale;</value>
+  </data>
+  <data name="listBox1.Items22" xml:space="preserve">
+    <value>38. zona drumului public - cuprinde suprafata de teren ocupata de elementele constructive ale drumului, zona de protectie si zona de siguranta. Limitele zonelor drumurilor se stabilesc în conformitate cu prevederile legale;</value>
+  </data>
+  <data name="listBox1.Items23" xml:space="preserve">
+    <value>39. zona pietonala – perimetrul care cuprinde una sau mai multe strazi rezervate circulatiei pietonilor, unde accesul vehiculelor este supus unor reguli speciale de circulatie, având intrarile si iesirile semnalizate în conformitate cu prevederile legale;</value>
+  </data>
+  <data name="listBox1.Items24" xml:space="preserve">
+    <value>(1) Este interzisa circulatia pe drumurile publice a vehiculelor care nu corespund din punct de vedere tehnic, a celor al caror termen de valabilitate a inspectiei tehnice periodice a expirat, precum si a celor neasigurate pentru raspundere civila pentru caz de pagube produse tertilor prin accidente de circulatie.</value>
+  </data>
+  <data name="listBox1.Items25" xml:space="preserve">
+    <value>(2) Constatarea defectiunilor tehnice ale vehiculelor se face de catre politia rutiera, iar verificarea starii tehnice a vehiculelor aflate în trafic pe drumurile publice se face de catre politia rutiera, împreuna cu institutiile abilitate de lege.</value>
+  </data>
+  <data name="listBox1.Items26" xml:space="preserve">
+    <value>(5) Este interzisa punerea în circulatie a unui vehicul, înmatriculat sau înregistrat, care nu are montate placute cu numarul de înmatriculare sau de înregistrare atribuite de autoritatea competenta ori daca acestea nu sunt conforme cu standardele în vigoare, precum si în cazul în care certificatul de înmatriculare sau de înregistrare este retinut, iar dovada înlocuitoare a acestuia este eliberata fara drept de circulatie sau termenul de valabilitate a expirat.</value>
+  </data>
+  <data name="listBox1.Items27" xml:space="preserve">
+    <value>(1) Radierea din evidenta a vehiculelor se face de catre autoritatea care a efectuat înmatricularea sau înregistrarea doar în cazul scoaterii definitive din circulatie a acestora, la cererea proprietarului, în urmatoarele cazuri:</value>
+  </data>
+  <data name="listBox1.Items28" xml:space="preserve">
+    <value>(2) Radierea din evidenta a vehiculelor înregistrate, la trecerea acestora în proprietatea altei persoane, se face de catre autoritatea care a efectuat înregistrarea, la cererea proprietarului, în conditiile legii.</value>
+  </data>
+  <data name="listBox1.Items29" xml:space="preserve">
+    <value>(4) Vehiculele declarate, potrivit legii, prin dispozitie a autoritatii administratiei publice locale, fara stapân sau abandonate, se radiaza din oficiu în termen de 30 de zile de la primirea dispozitiei respective.</value>
+  </data>
+</root>

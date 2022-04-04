@@ -1,0 +1,72 @@
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.GenerateResource.Cache
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.sdf
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.GenerateResource.Cache
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csprojResolveAssemblyReference.cache
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csprojResolveAssemblyReference.cache
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.sdf
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.ResolveComReference.cache
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.ResolveComReference.cache
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+J:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+F:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.ResolveComReference.cache
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.sdf
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csprojResolveAssemblyReference.cache
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\bt\Desktop\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.GenerateResource.Cache
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.sdf
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AcroPDFLib.dll
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.AcroPDFLib.dll
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.ResolveComReference.cache
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\C# PROBLEME\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\UBB\Pentru CV\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ATESTAT CHESTIONARE AUTO.csproj.AssemblyReference.cache
+D:\UBB\Pentru CV\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\UBB\Pentru CV\ATESTAT INFORMATICA CHESTIONARE AUTO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
