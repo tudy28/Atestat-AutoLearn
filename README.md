@@ -26,7 +26,7 @@ Aici, acesta are la dispozitie mai multe optiuni, precum:
 
 - Citirea legislatiei rutiere
 
-<img src = "readme-pics/legislatie.PNG">
+<img src = "readme-pics/legislatie.png">
 
 - Simularea de examen / Parcurgea mediului de invatare
 
